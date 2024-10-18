@@ -16,7 +16,7 @@ def apply_dithering(image):
         [3, 5, 1]
     ]) / 16.0
     
-    # Apply dithering with reduced intensity
+    # Apply dithering
     for y in range(height):
         for x in range(width):
             old_pixel = img_array[y, x]
