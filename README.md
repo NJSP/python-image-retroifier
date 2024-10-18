@@ -12,6 +12,8 @@
 ## Requirements
 - Python 3.x
 - Pillow library
+- numpy
+- tkinter
 
 ## Installation
 1. Clone the repository:
